@@ -1,0 +1,2 @@
+# Docker in Docker 
+This is a Docker file which contains Docker engine and Docker compose addon. Purpose of creating this Docker image is for using in Gitlab CI/CD pipelines that using a runner with `docker` executor.
